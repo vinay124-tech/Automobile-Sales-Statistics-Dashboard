@@ -4,6 +4,9 @@ This project is a Dash-based interactive web application for analyzing and visua
 
 ---
 
+<img src="https://github.com/vinay124-tech/Automobile-Sales-Statistics-Dashboard/blob/main/Results/Recession_Period_Statistics.jpeg?raw=true" alt="Alt text" width="500" height="300"> <img src="https://github.com/vinay124-tech/Automobile-Sales-Statistics-Dashboard/blob/main/Results/Total%20expenditure%20share%20by%20vehicle%20type%20during%20recessions.png?raw=true" alt="Alt text" width="500" height="300"> 
+
+
 ## Features
 
 1. **Dropdown Menu for Statistics Selection**
